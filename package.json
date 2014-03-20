@@ -1,8 +1,8 @@
 {
   "name": "node-compress-util",
-  "version": "0.0.0",
-  "description": "node-compress-util\r ==================",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "node-compress-util with buffer\r ==================",
+  "main": "./lib/compress_all.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "https://github.com/shimdh/node-compress-util.git"
   },
-  "author": "",
+  "author": {
+    "name": "shimdh",
+    "email": "shimdh@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shimdh/node-compress-util/issues"
