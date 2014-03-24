@@ -1,6 +1,6 @@
 {
   "name": "node-compress-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node-compress-util with buffer\r ==================",
   "main": "./lib/compress_all.js",
   "scripts": {
