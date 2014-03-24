@@ -1,6 +1,6 @@
 {
   "name": "node-compress-util",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "node-compress-util with buffer\r tool for compressing and decompressing with several compress modules.",
   "main": "./lib/compress_all.js",
   "scripts": {
