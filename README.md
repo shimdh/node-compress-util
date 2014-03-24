@@ -7,7 +7,15 @@ Example
 -------
 ```js
 var compressTool = require('node-compress-util');
-var Lzf = new compressTool.Lzf();
-var Gzip = new compressTool.Gzip();
+var Lzf = compressTool.Lzf;
+var Gzip = compressTool.Gzip;
+
+Lzf.compress(buffer, function() {
+
+});
+
+Gzip.compress(buffer, function() {
+    
+});
 
 ```
