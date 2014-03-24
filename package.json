@@ -14,7 +14,7 @@
     "name": "shimdh",
     "email": "shimdh@gmail.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shimdh/node-compress-util/issues"
   },
